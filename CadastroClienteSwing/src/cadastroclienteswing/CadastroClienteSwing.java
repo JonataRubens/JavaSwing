@@ -7,7 +7,7 @@ package cadastroclienteswing;
 
 /**
  *
- * @author Wosley Arruda
+ * @author WEB
  */
 public class CadastroClienteSwing {
 
